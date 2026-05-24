@@ -10,7 +10,7 @@ def generate_buzz():
     page = '<html><body><h1>'
     page += generator.generate_buzz()
     page += '</h1>'
-    page += '</br>Greetings from JouwNaam </br>'
+    page += '</br>Greetings from Etienne </br>'
     page += '</body></html>'
     return page
 
